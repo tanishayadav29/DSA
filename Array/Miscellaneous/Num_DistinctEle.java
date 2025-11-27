@@ -1,3 +1,4 @@
+package Miscellaneous;
 //wap to find number of distinct element in an array
 public class Num_DistinctEle {
     public static void main(String[] args) {
